@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30847942.chunk.css",
+    "main.js": "/static/js/main.e07365c6.chunk.js",
+    "main.js.map": "/static/js/main.e07365c6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a173be2e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a173be2e.js.map",
+    "static/js/2.7638135c.chunk.js": "/static/js/2.7638135c.chunk.js",
+    "static/js/2.7638135c.chunk.js.map": "/static/js/2.7638135c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.61b724eb60b79266e1e4e1bd069e382e.js": "/precache-manifest.61b724eb60b79266e1e4e1bd069e382e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.30847942.chunk.css.map": "/static/css/main.30847942.chunk.css.map",
+    "static/js/2.7638135c.chunk.js.LICENSE.txt": "/static/js/2.7638135c.chunk.js.LICENSE.txt",
+    "static/media/Ellipsis-1s-200px.svg": "/static/media/Ellipsis-1s-200px.d1cc1024.svg",
+    "static/media/Infinity-1s-200px.svg": "/static/media/Infinity-1s-200px.ee045e04.svg",
+    "static/media/arrow.svg": "/static/media/arrow.6cc0294c.svg",
+    "static/media/index.css": "/static/media/blue-digits-background-math-concept-numbers-digits-texture-blue-backgrounds.9cc8fd4f.png",
+    "static/media/numbers.svg": "/static/media/numbers.2774b32d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a173be2e.js",
+    "static/js/2.7638135c.chunk.js",
+    "static/css/main.30847942.chunk.css",
+    "static/js/main.e07365c6.chunk.js"
+  ]
+}
